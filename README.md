@@ -10,6 +10,6 @@ Problem Statement :
 
 2.What will be predicted score if a student studies for 9.25 hrs/ day?
 
-Tool used : Jupyter Notebook
+Tool used : Google Colab
 
 Libraries used : NUMPY, Pandas, Sklearn
